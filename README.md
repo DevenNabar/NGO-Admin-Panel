@@ -1,4 +1,4 @@
-# DJSCE-NGO
+# NGO-Admin-Panel
 
 docker build . -t `<your username>`/node-web-app
 
